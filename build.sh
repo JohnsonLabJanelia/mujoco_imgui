@@ -19,6 +19,6 @@ g++ -Ofast -ffast-math -std=c++17 \
     -I$DIR_MUJOCO/include/mujoco \
     -I$DIR_MUJOCO/include/ \
     -lmujoco \
-    -I/usr/local/include/ -I./third_party/imgui -I./third_party/imgui/backends -lGLEW -lGLU -lGL `pkg-config --static --libs glfw3`
+    -I/usr/local/include/ -I./third_party/imgui -I./third_party/imgui/backends -lGLU -lGL `pkg-config --static --libs glfw3`
 
 ./targets/mujoco_imgui
