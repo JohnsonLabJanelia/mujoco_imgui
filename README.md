@@ -19,4 +19,4 @@ Use `build.sh` script to build the project on a Linux machine. By default, it lo
 
 ## GUI
 
-While hovering the scene, use left mouse button to rotate the view, right button for panning, and middle of mouse for scrolling. 
+While hovering the scene, use left mouse button to rotate the view, right button to pan, and middle of mouse to scroll. 
