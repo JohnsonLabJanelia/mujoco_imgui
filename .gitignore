@@ -1,3 +1,4 @@
 targets/
 .vscode/
 MUJOCO_LOG.TXT
+imgui.ini
